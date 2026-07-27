@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=220&section=header&text=Farvej%20Shaik&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20MERN%20Stack%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&multiline=true&width=650&height=80&lines=Building+clean%2C+responsive+web+experiences;MERN+Stack+%7C+JavaScript+%7C+Data+Structures;Turning+ideas+into+full-stack+applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&multiline=true&width=800&height=90&lines=Building+clean%2C+responsive+web+experiences;MERN+Stack+%7C+JavaScript+%7C+Data+Structures;Turning+ideas+into+full-stack+applications" alt="Typing SVG" />
 
 <br/>
 
@@ -34,7 +34,7 @@
 
 ## 🛠️ Tech Stack
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Languages+%E2%80%A2+Frontend+%E2%80%A2+Backend+%E2%80%A2+Databases+%E2%80%A2+Tools" alt="stack" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=650&height=40&lines=Languages+%E2%80%A2+Frontend+%E2%80%A2+Backend+%E2%80%A2+Databases+%E2%80%A2+Tools" alt="stack" />
 
 ### 💻 Programming Languages
 <p>
