@@ -80,21 +80,6 @@ A responsive personal portfolio showcasing my projects, skills, and experience �
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farvejshaik&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farvejshaik&theme=radical" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farvejshaik&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
-> ℹ️ Replace `farvejshaik` in the stats URLs above with your actual GitHub username so the cards render correctly.
-
----
-
 ## 📫 Let's Connect
 
 <p align="center">
